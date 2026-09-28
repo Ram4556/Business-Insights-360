@@ -6,6 +6,10 @@ An end-to-end Power BI business analytics dashboard designed to
 provide a 360° view of business performance across Finance, Sales,
 Marketing, Supply Chain, and Executive reporting.
 
+### Power BI Dashboard Overview
+
+[▶ Watch the Dashboard Overview](assets/Overview.mp4)
+
 The dashboard enables users to analyse **revenue, profitability,
 customer performance, product performance, market share, forecast
 accuracy, inventory risk, and business trends** using interactive
@@ -102,6 +106,10 @@ Margin tells us what remains after direct costs.
 
 # Home View
 
+### Dashboard Preview
+
+<img src="assets/Home_View.png" alt="Home View" width="90%">
+
 ### Starting the Journey
 
 The Home View is the entry point to the business story. Instead of forcing every user through the same analysis, it directs users toward the view that matches their business question.
@@ -126,6 +134,11 @@ into detailed functional analysis.
 ------------------------------------------------------------------------
 
 # **Finance View**
+
+### Dashboard Preview
+
+<img src="assets/Finance_View.png" alt="Finance View" width="90%">
+
 
 The **Finance View** focuses on **Profit & Loss analysis and financial
 performance**.
@@ -172,6 +185,9 @@ performance**.
 
 # **Sales View**
 
+### Dashboard Preview
+
+<img src="assets/Sales_View.png" alt="Sales View" width="90%">
 
 
 The **Sales View** turns company revenue into a detailed customer and market story.
@@ -219,6 +235,10 @@ This is important because two customers with similar revenue can contribute very
 
 # **Marketing View**
 
+### Dashboard Preview
+
+<img src="assets/Marketing_View.png" alt="Marketing View" width="90%">
+
 ### Which Products Are Driving Growth?
 
 The **Marketing View** shifts the story from customers to products and segments.
@@ -257,6 +277,10 @@ The analysis helps separate high-volume contributors from smaller segments and p
 ------------------------------------------------------------------------
 
 # **Supply Chain View**
+
+### Dashboard Preview
+
+<img src="assets/Supply_Chain_View.png" alt="Supply Chain View" width="90%">
 
 ### Can the Business Supply What the Market Wants?
 
@@ -308,6 +332,10 @@ This turns forecasting from a standalone metric into an operational business que
 ------------------------------------------------------------------------
 
 # **Executive View**
+
+### Dashboard Preview
+
+<img src="assets/Executive_View.png" alt="Executive View" width="90%">
 
 ### The Complete Business Story
 
@@ -433,6 +461,10 @@ Users can analyse the report using filters such as:
 ------------------------------------------------------------------------
 
 # Data Model
+
+### Power BI Data Model
+
+<img src="assets/Data_Model.png" alt="Power BI Data Model" width="95%">
 
 The dashboard combines multiple business datasets covering:
 
