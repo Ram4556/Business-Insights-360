@@ -104,11 +104,12 @@ Margin tells us what remains after direct costs.
 **Net Profit** tells us what remains after the wider cost structure.  
 **Forecast Accuracy** tells us how well the business is planning demand.**
 
-# Home View
+# **Home View**
 
 ### Dashboard Preview
 
-<img src="assets/Home_View.png" alt="Home View" width="90%">
+<img src="assets/Home.png" alt="Home View" width="90%">
+
 
 ### Starting the Journey
 
